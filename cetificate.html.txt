@@ -1,0 +1,12 @@
+<ol>
+
+<li>CompTIA Security+</li>
+<li>CompTIA Newtork+</li>
+<li>CompTIA A+</li>
+<li>CompTIA Server+</li>
+<li>CompTIA IT Operations Specialist</li>
+<li>CompTIA Secured Netowk Infrasture Specialist</li>
+<li>Certified Nework Pro</li>
+<li>Certified PC Pro</li>
+
+</ol>

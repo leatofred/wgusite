@@ -1,0 +1,3 @@
+<script>
+document.write("Hello the entire world");
+</script>

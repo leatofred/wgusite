@@ -1,0 +1,33 @@
+
+<pre> </pre>....................prevent spaces and linebreaks
+
+<mark> </mark>..................Highlight
+
+<sub> </sub>....................Subscript
+
+<del> </del>....................Strikeout letter
+
+<q> </q>........................Quote
+
+<blockquote cite=" "> </blockquote>
+
+<bdo dir="ltr"> </bdo>..........Directo of text
+
+<abbr title=" "> </abbr>
+
+<a href=" " target="_blank"> </a>
+
+<a href=" " title=" "> </a>........tooltip
+
+<img src="scream.png" style="width:250px;height:400px;"> .......Setting size of image
+
+<th colspan="2"> </th>...........Colomn Span 
+
+<ul style="list-style-type:square;">............List-Style-Type
+
+<ol type="A">
+
+<dl>
+<dt></dt>
+		<dd></dd>
+</dl>

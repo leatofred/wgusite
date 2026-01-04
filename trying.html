@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width>, initial-scale=1.0">
+    <title>Document</title>
+
+
+    <style>
+      
+
+        .dropdown_menu  {
+            display: block;
+            position: absolute;
+        }
+
+        .dropdown_menu ul li {
+            display: block;
+            margin: 10px;
+            color: white;
+        }
+
+        .top_nav    {
+            display: inline-block;
+        }
+        
+    </style>
+</head>
+<body>
+
+    <nav class="top_nav">   
+            <legend><u><strong>SOME NAVIGATION INFOMATION</strong> </u></legend>
+        <ul  class="nav">
+            <li><a href="/#/">HOME</a></li><br />
+            <li><a href="/#/">Cat Owners<i class="fas fa-caret-down"></i></a></li>
+            
+            <div class="dropdown_menu">
+                <ul>
+                    <li><a href="/#/">0-4 Months</a></li>
+                    <li><a href="/#/">4-1 Year</a></li>
+                    <li><a href="/#/">1-7 Years<i class="fas fa-caret-right"></i></a></li>
+                    <li><a href="/#/">7+ Years</a></li>
+                </ul>
+            </div>
+
+            <li><a href="/#/">Dog Owners</a></li>
+            <li><a href="/#/">Bird Owners</a></li>
+        </ul>
+    </nav>
+<!--
+    <select>
+        <option>Red</option>
+        <option>Blue</option>
+        <option>Green</option>
+        <option>Pink</option>
+    </select>
+        -->
+
+</body>
+</html>
